@@ -1,0 +1,30 @@
+Here, we have additional supplementary codes (cited in the paper Jamshidi Idaji et al) in MATLAB live script format.
+
+These scripts are a part of the supplementary material for the following paper:
+
+-  Jamshidi Idaji et al,  "Nonlinear Interaction Decomposition (NID): A Method 
+for Separation of Cross-frequency Coupled Sources in Human Brain". doi: <https://doi.org/10.1101/680397 
+https://doi.org/10.1101/680397>
+
+(C) Mina Jamshidi Idaji, Oct 2019, @ MPI CBS, Leipzig, Germany
+https://github.com/minajamshidi/NID
+minajamshidi91@gmail.com
+
+-> The simulation pipeline is based on the code used in:
+
+Nikulin, V.V., Nolte, G., Curio, G., 2012. Cross-frequency decomposi-
+tion: A novel technique for studying interactions between neuronal oscilla-
+tions with different frequencies. Clinical Neurophysiology 123, 1353–1360.
+doi:10.1016/j.clinph.2011.12.004.
+
+** Please cite the above papers (or a future peer-reviewed version) in case of 
+any significant usage of this script or the simulation pipeline.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER
+OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
