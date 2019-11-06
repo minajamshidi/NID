@@ -2,7 +2,7 @@ In this folder, you will find the scripts for simulation of realistic M/EEG.
 You will need METH toolbox by Guido Nolte:
 https://www.uke.de/english/departments-institutes/institutes/neurophysiology-and-pathophysiology/research/research-groups/index.html 
 
-These scripts is a part of the supplementary material for the following paper:
+These scripts are a part of the supplementary material for the following paper:
 
 -  Jamshidi Idaji et al,  "Nonlinear Interaction Decomposition (NID): A Method 
 for Separation of Cross-frequency Coupled Sources in Human Brain". doi: <https://doi.org/10.1101/680397 
