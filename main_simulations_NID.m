@@ -43,7 +43,7 @@
 % https://github.com/minajamshidi/NID
 % minajamshidi91@gmail.com
 % +++++++++++++++
-% This code is based on the code used in:
+% The simulation pipeline code is based on the code used in:
 
 % Nikulin, V.V., Nolte, G., Curio, G., 2012. Cross-frequency decomposi-
 % tion: A novel technique for studying interactions between neuronal oscilla-
