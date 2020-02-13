@@ -2,10 +2,9 @@
 % This script is a part of the supplementary material for the following paper:
 % 
 % -  Jamshidi Idaji et al,  "Nonlinear Interaction Decomposition (NID): A Method 
-% for Separation of Cross-frequency Coupled Sources in Human Brain". doi: <https://doi.org/10.1101/680397 
-% https://doi.org/10.1101/680397>
+% for Separation of Cross-frequency Coupled Sources in Human Brain". doi: <https://doi.org/10.1016/j.neuroimage.2020.116599>
 % 
-% (C) Please cite the above paper (or a future peer reviewd version) in case 
+% (C) Please cite the above paper in case 
 % of any significant usage of this script.
 % 
 % Corresponding Author: Vadim V. Nikulin (nikulin@cbs.mpg.de)
