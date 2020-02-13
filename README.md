@@ -1,4 +1,3 @@
 # NID
 This repository includes the MTLAB codes of Nonlinear Interaction Decomposition (NID). 
-Please see https://www.biorxiv.org/content/10.1101/680397v1.abstract.
-doi: https://doi.org/10.1101/680397 
+Jamshidi et al, "Nonlinear interaction decomposition (NID): A method for separation of cross-frequency coupled sources in human brain", NeuroImage, 2020. doi: https://doi.org/10.1016/j.neuroimage.2020.116599
