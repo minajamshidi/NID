@@ -2,8 +2,7 @@
 % This script is a part of the supplementary material for the following paper:
 % 
 % -  Jamshidi Idaji et al,  "Nonlinear Interaction Decomposition (NID): A Method 
-% for Separation of Cross-frequency Coupled Sources in Human Brain". doi: <https://doi.org/10.1101/680397 
-% https://doi.org/10.1101/680397>
+% for Separation of Cross-frequency Coupled Sources in Human Brain". doi: <https://doi.org/10.1016/j.neuroimage.2020.116599>
 % 
 % Corresponding Author: Vadim V. Nikulin (nikulin@cbs.mpg.de)
 % 
@@ -23,14 +22,14 @@
 % 
 % 
 % 
-% *Please cite the above papers (or a future peer-reviewed version) in case 
+% *Please cite the above two papers in case 
 % of any significant usage of this script  or the simulation pipeline.*
 %% *Supplementary Code (5)*
 %% Realistic EEG Simulations: A Comprehensive Tutorial
 % In this script, we go through our realistic EEG simulation pipeline of our 
 % paper.
 % 
-% *Please cite the above papers (or a future peer-reviewed version) in case 
+% *Please cite the above two papersin case 
 % of any significant usage of this script or the simulation pipeline.*
 % 
 % For this script, you will need the <https://www.uke.de/english/departments-institutes/institutes/neurophysiology-and-pathophysiology/research/research-groups/index.html 
