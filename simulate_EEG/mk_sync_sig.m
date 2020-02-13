@@ -34,8 +34,7 @@ function [src_sig_p, src_sig_q] = ...
 % This script is a part of the supplementary material for the following paper:
 % 
 % -  Jamshidi Idaji et al,  "Nonlinear Interaction Decomposition (NID): A Method 
-% for Separation of Cross-frequency Coupled Sources in Human Brain". doi: <https://doi.org/10.1101/680397 
-% https://doi.org/10.1101/680397>
+% for Separation of Cross-frequency Coupled Sources in Human Brain". doi: <https://doi.org/10.1016/j.neuroimage.2020.116599>
 % 
 % 
 % (C) Mina Jamshidi Idaji, Oct 2019, @ MPI CBS, Leipzig, Germany
@@ -49,7 +48,7 @@ function [src_sig_p, src_sig_q] = ...
 % tions with different frequencies. Clinical Neurophysiology 123, 1353–1360.
 % doi:10.1016/j.clinph.2011.12.004.
 %%
-% *Please cite the above papers (or a future peer-reviewed version) in case of 
+% *Please cite the above papers in case of 
 % any significant usage of this script or the simulation pipeline.
 %% 
 % THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS
