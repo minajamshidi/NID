@@ -4,7 +4,8 @@ This repository includes the MATLAB codes of Nonlinear Interaction Decomposition
 * Please cite the below paper, in case of any significant usage of the codes in this repository.
 
   * Jamshidi Idaji et al, "Nonlinear interaction decomposition (NID): A method for separation of cross-frequency coupled sources in human brain", NeuroImage, 2020. doi: https://doi.org/10.1016/j.neuroimage.2020.116599
-  
+
+* If you are interested in simulating EEG, you can enjoy using the tutorials in the supplementary material.
   
 * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS
     OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
